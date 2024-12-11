@@ -1,0 +1,1 @@
+https://www.wolframalpha.com/input?i=sen%28x%29+*+cos%28y%29&lang=es
